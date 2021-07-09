@@ -10,9 +10,12 @@ form.normal-form{
     margin:10px;
 }
 .controls-container{
-   width: 100%;
+   width: 30%;
    padding:5%;
 }
 .controls-container > *{
     width: 100%;
+ }
+ .button-row button{
+     margin :5px;
  }
